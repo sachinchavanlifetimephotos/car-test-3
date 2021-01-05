@@ -1,0 +1,21 @@
+var car, wall; 
+var speed, weight; 
+
+
+
+function setup() { 
+createCanvas
+
+
+
+}
+
+function draw(){  
+
+
+
+
+
+}
+
+
